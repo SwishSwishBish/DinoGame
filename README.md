@@ -9,4 +9,4 @@ You can examine the Chromium [source](https://source.chromium.org/chromium/chrom
 
 ## Demo
 
-![image](https://user-images.githubusercontent.com/96373435/162417454-4783caad-2d06-4816-8f2d-a777a11a5e57.png)
+![image](https://raw.githubusercontent.com/SwishSwishBish/DinoGame/master/image/dino-demo.gif)
